@@ -1,7 +1,7 @@
 # inventory-management-system
 ### 1. Introduction
 
-#Inventory Management System
+**Inventory Management System**
 
 ![Design Outline Diagram](https://github.com/user-attachments/assets/16270de7-5d9d-4e76-bd45-5543087e4fcf)
 

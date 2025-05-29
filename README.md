@@ -3,6 +3,8 @@
 
 Inventory Management System
 
+![Design Outline Diagram](https://github.com/user-attachments/assets/16270de7-5d9d-4e76-bd45-5543087e4fcf)
+
 To complete this challenge, you will need to create a console application where users can manage product stock. Users should be able to add new products, update stock, and remove products.
 
 Some key features include:

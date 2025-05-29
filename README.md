@@ -27,4 +27,4 @@ I used a while loop to start the program, ensuring the program exits only on use
 
 ### 4. Copilot
 
-I was extremely blown away by AI's capabilities to review and comment on code. It has helped tremendously with making my application much more robust, and concise. I learnt how to question Copilot's review and comments of my code in the Visual Studio IDE, reviewing them line by line and to accept/undo Copilot's changes. The highlighted red/green text made the task much more pleasant to deal with.
+I was extremely blown away by AI's capabilities to review and comment on code. It has helped tremendously with making my application much more robust, and concise. I learnt how to question Copilot's review and comments of my code in the Visual Studio IDE, reviewing them line by line and to keep/undo Copilot's changes. The highlighted red/green text made the task much more pleasant to deal with.

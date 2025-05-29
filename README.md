@@ -1,7 +1,5 @@
 # inventory-management-system
-Inventory Management System
-
-### 1.Introduction
+### 1. Introduction
 
 Inventory Management System
 

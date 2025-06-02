@@ -17,13 +17,13 @@ Some key features include:
 
 - Remove products from inventory.
 
-### 2. Control Structures
+### 2. Control Structures (If-else/Switch)
 
 If-else was used to validate data provided from user input.
 
 Switch case was used to direct the flow of the application.
 
-### 3. Loops
+### 3. Control Structures (Loop)
 
 I used a while loop to start the program, ensuring the program exits only on user input. Any input provided by the user will trigger a method call.
 

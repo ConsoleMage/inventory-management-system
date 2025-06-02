@@ -23,7 +23,7 @@ If-else was used to validate data provided from user input.
 
 Switch case was used to direct the flow of the application.
 
-### 3. Control Structures (while)
+### 3. Control Structures (while/foreach)
 
 I used a while loop to start the program, ensuring the program exits only on user input. Any input provided by the user will trigger a method call.
 

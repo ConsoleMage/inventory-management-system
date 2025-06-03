@@ -1,4 +1,6 @@
 # inventory-management-system
+
+
 ### 1. Introduction
 
 **Inventory Management System**
@@ -17,6 +19,7 @@ Some key features include:
 
 - Remove products from inventory.
 
+
 ### 2. Control Structures (if...else/switch)
 
 - if...else was used to validate data provided from user input.
@@ -26,6 +29,7 @@ Some key features include:
 ### 3. Control Structures (while/foreach)
 
 I used a while loop to start the program, ensuring the program exits only on user input. Any input provided by the user will trigger a method call.
+
 
 ### 4. Copilot
 

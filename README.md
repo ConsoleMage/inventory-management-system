@@ -19,9 +19,9 @@ Some key features include:
 
 ### 2. Control Structures (if...else/switch)
 
-If-else was used to validate data provided from user input.
+if...else was used to validate data provided from user input.
 
-Switch case was used to direct the flow of the application.
+switch case was used to direct the flow of the application.
 
 ### 3. Control Structures (while/foreach)
 

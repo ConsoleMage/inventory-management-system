@@ -25,3 +25,5 @@ I used a while loop to start the program, ensuring the program exits only on use
 
 ### 4. Copilot
 I was truly amazed by AI's ability to review and provide feedback on code. It has been invaluable in making my application more robust and concise. I learned how to critically evaluate Copilot’s suggestions in Visual Studio IDE, reviewing them line by line and deciding whether to keep or undo its changes. The red and green highlights made the review process much smoother and more enjoyable.
+
+Tech stack: .NET, Visual Studio, C# Dev Kit, SonarQube, GitHub Copilot

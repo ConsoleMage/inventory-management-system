@@ -1,9 +1,10 @@
 # inventory-management-system
+
+This is the first peer-graded assignment: Project Submission, Course 1 of 12 of the Microsoft Full-Stack Developer Professional Certificate course.
+
 ### 1. Introduction  
 
 **Inventory Management System**  
-
-This is the first peer-graded assignment: Project Submission, Course 1 of 12 of the Microsoft Full-Stack Developer Professional Certificate course.
 
 ![Design Outline Diagram](https://github.com/user-attachments/assets/16270de7-5d9d-4e76-bd45-5543087e4fcf)  
 

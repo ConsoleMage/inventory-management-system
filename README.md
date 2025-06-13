@@ -21,7 +21,7 @@ Some key features include:
 - switch statement was used to direct the flow of the application.  
 
 ### 3. Control Structures (foreach and while)
-- while statement starts the program, ensuring it exits only when user selects "Exit".
+- while statement starts the program and ensures it exits only when the user selects "Exit".
 - foreach statement iterates through the inventory and prints product information for each item.
 
 ### 4. GitHub Copilot

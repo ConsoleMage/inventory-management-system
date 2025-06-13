@@ -21,7 +21,7 @@ Some key features include:
 - switch was used to direct the flow of the application.  
 
 ### 3. Control Structures (foreach and while)
-I used a while loop to start the program, ensuring the program exits only on user input. Any input provided by the user will trigger a method call.  
+I used the while statement to start the program, ensuring the program exits only on user input. Any input provided by the user will trigger a method call.  
 
 ### 4. GitHub Copilot
 I was truly amazed by AI's ability to review and provide feedback on code. It has been invaluable in making my application more robust and concise. I learned how to critically evaluate GitHub Copilot’s suggestions in Visual Studio Code, reviewing them line by line and deciding whether to keep or undo its changes. The red and green highlights made the review process much smoother and more enjoyable.

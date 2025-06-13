@@ -21,7 +21,8 @@ Some key features include:
 - switch statement was used to direct the flow of the application.  
 
 ### 3. Control Structures (foreach and while)
-I used a while statement to start the program, ensuring it exits only upon user input. A foreach statement iterates through the inventory and prints product information for each item.
+- I used a while statement to start the program, ensuring it exits only upon user input.
+- A foreach statement iterates through the inventory and prints product information for each item.
 
 ### 4. GitHub Copilot
 I was truly amazed by AI's ability to review and provide feedback on code. It has been invaluable in making my application more robust and concise. I learned how to critically evaluate GitHub Copilot’s suggestions in Visual Studio Code, reviewing them line by line and deciding whether to keep or undo its changes. The red and green highlights made the review process much smoother and more enjoyable.

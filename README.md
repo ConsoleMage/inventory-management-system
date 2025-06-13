@@ -17,8 +17,8 @@ Some key features include:
 - Remove products from inventory.  
 
 ### 2. Control Structures (if, if-else, and switch)
-- if-else was used to validate data provided from user input.
-- switch was used to direct the flow of the application.  
+- if-else statement was used to validate data provided from user input.
+- switch statement was used to direct the flow of the application.  
 
 ### 3. Control Structures (foreach and while)
 I used the while statement to start the program, ensuring the program exits only on user input. Any input provided by the user will trigger a method call.  

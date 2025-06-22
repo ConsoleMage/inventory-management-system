@@ -1,6 +1,6 @@
 # inventory-management-system
 
-This is the first peer-graded assignment: Project Submission, Course 1 of 12 of the Microsoft Full-Stack Developer Professional Certificate course.
+This is the first peer-graded assignment: Project Submission, Course 1 of 12 in the Microsoft Full-Stack Developer Professional Certificate.
 
 ### 1. Introduction  
 

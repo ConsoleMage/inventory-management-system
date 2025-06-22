@@ -2,6 +2,8 @@
 
 This is the first peer-graded assignment: Project Submission, Course 1 of 12 in the Microsoft Full-Stack Developer Professional Certificate.
 
+A project for creating a command-line application that can run on .NET on Windows, Linux and macOS.
+
 ### 1. Introduction  
 
 **Inventory Management System**  

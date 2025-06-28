@@ -10,7 +10,6 @@
     static class InventoryManagementSystem
     {
         static readonly List<Product> inventory = [];
-
         static void Main(string[] args)
         {
             while (true)

@@ -1,6 +1,6 @@
 # inventory-management-system
 
-This is the first peer-graded assignment for "Project Submission," which is Course 1 of 12 in the Microsoft Full-Stack Developer Professional Certificate program.
+This is the peer-graded assignment for *Foundations of Coding Full-Stack*, the graded assignment for Course 1 of 12 in the Microsoft Full-Stack Developer Professional Certificate program.
 
 A project for creating a command-line application that can run on .NET on Windows, Linux and macOS.
 

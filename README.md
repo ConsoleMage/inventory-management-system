@@ -1,6 +1,6 @@
 # inventory-management-system
 
-This is the peer-graded assignment for "Foundations of Coding Full-Stack," which is the first course in a 12-course series in the Microsoft Full-Stack Developer Professional Certificate program.
+This is the peer-graded assignment for "Foundations of Coding Full-Stack," the first course in a 12-course series in the Microsoft Full-Stack Developer Professional Certificate program.
 
 A project for creating a command-line application that can run on .NET on Windows, Linux and macOS.
 

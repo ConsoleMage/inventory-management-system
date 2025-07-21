@@ -4,7 +4,7 @@ This is the peer-graded assignment for "Foundations of Coding Full-Stack," the f
 
 A project for creating a command-line application that can run on .NET on Windows, Linux and macOS.
 
-### 1. Introduction  
+## Introduction  
 
 **Inventory Management System**  
 
@@ -18,15 +18,15 @@ Some key features include:
 - View all products and their stock levels.
 - Remove products from inventory.  
 
-### 2. Control Structures (if, if-else, and switch)
+## Control Structures (if, if-else, and switch)
 - if-else statement was used to validate data provided from user input.
 - switch statement was used to direct the flow of the application.  
 
-### 3. Control Structures (foreach and while)
+## Control Structures (foreach and while)
 - while statement starts the program and ensures it exits only when the user selects "Exit".
 - foreach statement iterates through the inventory and prints product information for each item.
 
-### 4. GitHub Copilot
+## GitHub Copilot
 I was truly amazed by AI's ability to review and provide feedback on code. It has been invaluable in making my application more robust and concise. I learned how to critically evaluate GitHub Copilot’s suggestions in Visual Studio Code, reviewing them line by line and deciding whether to keep or undo its changes. The red and green highlights made the review process much smoother and more enjoyable.
 
 **Tech stack**: .NET, Visual Studio Code, C# Dev Kit, SonarQube, GitHub Copilot

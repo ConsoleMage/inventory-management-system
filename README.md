@@ -30,4 +30,4 @@ Some key features include:
 ## GitHub Copilot
 I was truly amazed by AI's ability to review and provide feedback on code. It has been invaluable in making my application more robust and concise. I learned how to critically evaluate GitHub Copilot’s suggestions in Visual Studio Code, reviewing them line by line and deciding whether to keep or undo its changes. The red and green highlights made the review process much smoother and more enjoyable.
 
-**Tech stack**: .NET, Visual Studio Code, C# Dev Kit, SonarQube, GitHub Copilot
+**Tech stack**: .NET, Visual Studio Code, C# Dev Kit, SonarQube for IDE, GitHub Copilot

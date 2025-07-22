@@ -18,11 +18,12 @@ Some key features include:
 - View all products and their stock levels.
 - Remove products from inventory.  
 
-## Control Structures (`if`, `if-else`, and `switch`)
+## Control Structures
+(`if`, `if-else`, and `switch`)
 - if-else statement was used to validate data provided from user input.
 - switch statement was used to direct the flow of the application.  
 
-## Control Structures (`foreach` and `while`)
+(`foreach` and `while`)
 - while statement starts the program and ensures it exits only when the user selects "Exit".
 - foreach statement iterates through the inventory and prints product information for each item.
 
